@@ -86,7 +86,7 @@ src/
 - Click to skip functionality
 
 ### 2. Hero Section
-- Saurav Kumar's introduction
+- Teams's introduction
 - Call-to-action buttons
 - Tech stack preview
 - Animated background elements
@@ -188,5 +188,6 @@ For support or questions, please contact:
 - GitHub: [Dev Loopers](https://github.com/devloopers)
 
 ---
+
 
 **Made with ❤️ by Team Dev Loopers | DEV Loopers** 
